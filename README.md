@@ -14,11 +14,8 @@
 ## Introduction
 
 **NFVessel** is a task-specific benchmark dataset for vessel detection in complex nearshore environments.
-
 The dataset was constructed to support research on vessel detection under challenging nearshore conditions, including normal navigation, berthing, vessel encounters, adjacent navigation, partial occlusion, distant small targets, low-contrast imaging, and structured background interference such as coastlines, buildings, water-surface reflections, waves, and vessel wakes.
-
 NFVessel contains **10,326 images** and **19,035 annotated vessel instances**. All vessels are annotated as a single object category using rectangular bounding boxes.
-
 The training, validation, and test sets are separated according to acquisition scene, acquisition time, and video clip to reduce information leakage caused by highly correlated adjacent video frames.
 
 ---
@@ -35,7 +32,6 @@ School of Information Science and Technology, Dalian Maritime University
 National Engineering Research Center for Ship Navigation Systems
 
 NFVessel is introduced in this work as a task-specific benchmark for evaluating vessel detection in complex nearshore environments, particularly under small-target, vessel-interaction, occlusion-related, and structured-background conditions.
-
 The paper link and complete bibliographic information will be updated after publication.
 
 ---
