@@ -481,18 +481,8 @@ For questions regarding NFVessel, please contact:
 ```text
 Yu Yin
 Dalian Maritime University
-Email: [TO BE ADDED]
+Email: [rainup@dlmu.edu.cn]
 ```
-
-For academic questions regarding the associated manuscript, please contact the corresponding author:
-
-```text
-Qing Hu
-Dalian Maritime University
-Email: hq0518@dlmu.edu.cn
-```
-
----
 
 ## Future Updates
 
