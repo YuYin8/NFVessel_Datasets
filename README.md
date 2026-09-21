@@ -38,9 +38,7 @@ The paper link and complete bibliographic information will be updated after publ
 
 ## News
 
-- **2026-09-XX**: NFVessel v1.0 is publicly released.
-- **2026-09-XX**: The official NFVessel repository is created.
-
+- **2026-09-21**: NFVessel v1.0 is publicly released.
 ---
 
 ## Dataset Overview
