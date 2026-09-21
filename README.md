@@ -213,25 +213,20 @@ NFVessel/
 │   ├── train/
 │   ├── val/
 │   └── test/
-│
-├── metadata/
-│   ├── train.txt
-│   ├── val.txt
-│   ├── test.txt
-│   └── complex_occlusion_subset.txt
-│
 └── NFVessel.yaml
 ```
 
 Each image has a corresponding annotation file with the same file stem.
 
-Example:
+## File Naming Convention
+
+NFVessel image files retain information about the acquisition date, scene background, scene type, and source frame index in their filenames.
+
+A typical filename is:
 
 ```text
-images/train/000001.jpg
-labels/train/000001.txt
-```
-
+0329_backB_normal_frame_000240.png
+<date>_<background>_<scene_type>_frame_<frame_id>.png
 ---
 
 ## YOLO Annotation Format
@@ -335,9 +330,6 @@ The acquisition conditions differ from the original NFVessel dataset in:
 - season;
 - imaging device;
 - camera viewpoint.
-
-**NFVessel_Extreme is not included in the NFVessel v1.0 public release unless explicitly stated otherwise.**
-
 ---
 
 ## Examples
@@ -372,6 +364,7 @@ The NFVessel dataset is publicly available through **Quark Cloud Drive**.
 | Dataset | Download Link | Access Code |
 |---|---|---|
 | **NFVessel v1.0** | [Quark Cloud Drive](https://pan.quark.cn/s/a221f5b69d0b) | `R6nK` |
+| **NFVessel_Extreme** | Independent 737-frame stress-test set | [Quark Cloud Drive](https://pan.quark.cn/s/4bdf7a571dd6) | `cVEj` |
 
 The released data contain the training, validation, and test images together with their corresponding vessel detection annotations.
 
