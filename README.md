@@ -364,7 +364,7 @@ The NFVessel dataset is publicly available through **Quark Cloud Drive**.
 | Dataset | Download Link | Access Code |
 |---|---|---|
 | **NFVessel v1.0** | [Quark Cloud Drive](https://pan.quark.cn/s/a221f5b69d0b) | `R6nK` |
-| **NFVessel_Extreme** | Independent 737-frame stress-test set | [Quark Cloud Drive](https://pan.quark.cn/s/4bdf7a571dd6) | `cVEj` |
+| **NFVessel_Extreme** | [Quark Cloud Drive](https://pan.quark.cn/s/4bdf7a571dd6) | `cVEj` |
 
 The released data contain the training, validation, and test images together with their corresponding vessel detection annotations.
 
