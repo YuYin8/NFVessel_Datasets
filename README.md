@@ -138,7 +138,7 @@ NFVessel is formulated as a **single-class vessel detection dataset**.
 ### Object Class
 
 ```text
-0: ship
+0: vessel
 ```
 
 ### Bounding-Box Annotation
