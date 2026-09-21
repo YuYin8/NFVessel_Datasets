@@ -253,7 +253,7 @@ Since NFVessel contains only one category:
 
 ```text
 class_id = 0
-class_name = ship
+class_name = vessel
 ```
 
 ---
@@ -270,7 +270,7 @@ val: images/val
 test: images/test
 
 names:
-  0: ship
+  0: vessel
 ```
 
 Users should replace `/path/to/NFVessel` with the local dataset path.
