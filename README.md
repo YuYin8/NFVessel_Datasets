@@ -26,7 +26,7 @@ NFVessel is introduced and evaluated in the following work:
 
 > **FRA-YOLO: Frequency-guided receptive-field adaptation for occluded ship detection in complex nearshore backgrounds**
 
-Yu Yin, Qing Hu*, Yue Zhou, Yu Zhang, Shuaiheng Huai
+**Yu Yin, Qing Hu<sup>*</sup>, Yue Zhou, Yu Zhang, Shuaiheng Huai**
 
 School of Information Science and Technology, Dalian Maritime University  
 National Engineering Research Center for Ship Navigation Systems
